@@ -54,11 +54,11 @@ This includes:
 
 ## Evidence to be Collected
 
-1. Microsoft Entra ID user accounts
-2. Microsoft Entra ID groups
-3. User group memberships and access rights
-4. Expected vs actual access
-5. Account status
+1. Microsoft Entra ID user accounts (https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Employeeslist.md)
+2. Microsoft Entra ID groups (https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Employeeslist.md) 
+3. User group memberships and access rights (https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Employeeslist.md)
+4. Expected vs actual access (https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Employeeslist.md)
+5. Account status (https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Employeeslist.md)
 6. Identified access exceptions
 7. Remediation actions
 8. Post-remediation access status
