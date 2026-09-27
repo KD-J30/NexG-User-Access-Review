@@ -106,6 +106,7 @@ The following evidence demonstrates the access identified during the initial rev
 
 
 ![Daniel Evans Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Daniel%20Evans/Before%20Remediation/Screenshot%202026-09-21%20185112.png)
+
 ---
 
 ## 3. Active Access Following Employee Resignation
@@ -125,9 +126,10 @@ The following evidence demonstrates the active account and Marketing membership 
 
 
 
-![Emma Wilson Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Emma/b4/Screenshot%202026-09-21%20110520.png) ![Emma Wilson Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Emma/b4/Screenshot%202026-09-21%20185518.png)
+![Emma Wilson Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Emma/b4/Screenshot%202026-09-21%20110520.png) 
 
 
+![Emma Wilson Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Emma/b4/Screenshot%202026-09-21%20185518.png)
 
 
 ---
@@ -151,7 +153,7 @@ The following evidence demonstrates that the identified access-management except
 
 The unnecessary Marketing access was removed, leaving Sarah Adams with the required Finance access.
 
-![Sarah Adams Remediation](evidence/remediation/sarah-adams-remediation.png)
+![Sarah Adams Remediation](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Sarah%20Adams/After%20Remediation/Screenshot%202026-09-21%20184855.png)
 
 ---
 
@@ -159,7 +161,7 @@ The unnecessary Marketing access was removed, leaving Sarah Adams with the requi
 
 Daniel Evans' outdated IT access was removed and his access was updated to reflect his new Sales responsibilities.
 
-![Daniel Evans Remediation](evidence/remediation/daniel-evans-remediation.png)
+![Daniel Evans Remediation](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Daniel%20Evans/After%20Remediation/Screenshot%202026-09-21%20185222.png)
 
 ---
 
@@ -167,7 +169,9 @@ Daniel Evans' outdated IT access was removed and his access was updated to refle
 
 Emma Wilson's account was disabled and associated organizational access was removed following her resignation.
 
-![Emma Wilson Remediation](evidence/remediation/emma-wilson-remediation.png)
+![Emma Wilson Remediation](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Emma/After%20Remediation/Screenshot%202026-09-21%20125934.png)
+
+![Emma Wilson Remediation](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Emma/After%20Remediation/Screenshot%202026-09-21%20185633.png)
 
 ---
 
