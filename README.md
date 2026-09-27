@@ -1,4 +1,5 @@
 # NexG-User-Access-Review
+
 GRC portfolio project demonstrating a User Access Review control assessment using Microsoft Entra ID.
 
 # User Access Review & Remediation Control Assessment
@@ -46,7 +47,8 @@ This includes:
 7. Confirm findings.
 8. Document findings.
 9. Remediate exceptions by removing, modifying or disabling access.
-10. Conclusion.
+10. Retest the affected accounts.
+11. Document the conclusion.
 
 ---
 
@@ -58,13 +60,15 @@ This includes:
 4. Expected vs actual access
 5. Account status
 6. Identified access exceptions
-7. Post-remediation access status
+7. Remediation actions
+8. Post-remediation access status
+9. Retest evidence
 
 ---
 
-## Findings
+# Findings
 
-### 1. Unnecessary Access
+## 1. Unnecessary Access
 
 - **Employee:** Sarah Adams
 - **Role:** Accountant
@@ -72,7 +76,35 @@ This includes:
 - **Expected Access:** Finance
 - **Actual Access:** Finance and Marketing
 
-### 2. Access Not Updated After Department Transfer
+Sarah Adams had Marketing access in addition to her required Finance access.
+
+### Evidence — Initial Access
+
+The following evidence demonstrates the access identified during the initial review.
+
+![Sarah Adams Initial Access](evidence/initial-review/sarah-adams-initial-access.png)
+
+### Remediation
+
+The unnecessary Marketing access was removed, leaving Sarah Adams with the required Finance access.
+
+### Evidence — Remediation
+
+![Sarah Adams Remediation](evidence/remediation/sarah-adams-remediation.png)
+
+### Retest
+
+Sarah Adams was retested after remediation.
+
+- **Expected Access:** Finance
+- **Actual Access:** Finance
+- **Result:** Remediated
+
+![Sarah Adams Retest](evidence/remediation/sarah-adams-retest.png)
+
+---
+
+## 2. Access Not Updated After Department Transfer
 
 - **Employee:** Daniel Evans
 - **Former Role:** IT Support
@@ -81,7 +113,35 @@ This includes:
 - **Expected Access:** Sales
 - **Actual Access:** IT
 
-### 3. Active Access Following Employee Resignation
+Daniel Evans retained his previous IT access after transferring to the Sales department.
+
+### Evidence — Initial Access
+
+The following evidence demonstrates the access identified during the initial review.
+
+![Daniel Evans Initial Access](evidence/initial-review/daniel-evans-initial-access.png)
+
+### Remediation
+
+Daniel Evans' outdated IT access was removed and his access was updated to reflect his new Sales responsibilities.
+
+### Evidence — Remediation
+
+![Daniel Evans Remediation](evidence/remediation/daniel-evans-remediation.png)
+
+### Retest
+
+Daniel Evans was retested after remediation.
+
+- **Expected Access:** Sales
+- **Actual Access:** Sales
+- **Result:** Remediated
+
+![Daniel Evans Retest](evidence/remediation/daniel-evans-retest.png)
+
+---
+
+## 3. Active Access Following Employee Resignation
 
 - **Employee:** Emma Wilson
 - **Previous Role:** Marketing Officer
@@ -90,35 +150,90 @@ This includes:
 - **Expected Access:** No access
 - **Actual Access:** Active Microsoft Entra account and membership in Marketing
 
+Emma Wilson's Microsoft Entra account remained active and retained Marketing membership despite her resignation.
+
+### Evidence — Initial Access
+
+The following evidence demonstrates the active account and Marketing membership identified during the initial review.
+
+![Emma Wilson Initial Access](evidence/initial-review/emma-wilson-initial-access.png)
+
+### Remediation
+
+Emma Wilson's Microsoft Entra account was disabled and associated organizational access was removed following her resignation.
+
+### Evidence — Remediation
+
+![Emma Wilson Remediation](evidence/remediation/emma-wilson-remediation.png)
+
+### Retest
+
+Emma Wilson was retested after remediation.
+
+- **Expected Access:** No access
+- **Actual Access:** Disabled account and no organizational group membership
+- **Result:** Remediated
+
+![Emma Wilson Retest](evidence/remediation/emma-wilson-retest.png)
+
 ---
 
-## Executions
+# Executions
 
 | Task Performed | Action Taken |
 |---|---|
-| Reviewed employee roles and Microsoft Entra ID access permissions | Identified excessive access and recorded the exception for remediation |
-| Reviewed access for an employee following a department change | Removed outdated access and updated group membership to match the employee's new responsibilities |
-| Reviewed Microsoft Entra ID access for a departed employee | Disabled the account and removed associated access rights |
+| Reviewed employee roles and Microsoft Entra ID access permissions | Identified excessive access and recorded the exception for remediation. |
+| Reviewed access for an employee following a department change | Removed outdated access and updated group membership to match the employee's new responsibilities. |
+| Reviewed Microsoft Entra ID access for a departed employee | Disabled the account and removed associated access rights. |
+| Retested remediated accounts | Confirmed that identified access exceptions were resolved. |
 
 ---
 
-## Recommendations
+# Post-Remediation Evidence
 
-### 1. Quarterly Access Recertification
+The following evidence demonstrates that the identified access-management exceptions were remediated.
+
+## Sarah Adams — Unnecessary Access Removed
+
+The unnecessary Marketing access was removed, leaving Sarah Adams with the required Finance access.
+
+![Sarah Adams Remediation](evidence/remediation/sarah-adams-remediation.png)
+
+---
+
+## Daniel Evans — Access Updated Following Department Transfer
+
+Daniel Evans' outdated IT access was removed and his access was updated to reflect his new Sales responsibilities.
+
+![Daniel Evans Remediation](evidence/remediation/daniel-evans-remediation.png)
+
+---
+
+## Emma Wilson — Access Removed Following Employee Resignation
+
+Emma Wilson's account was disabled and associated organizational access was removed following her resignation.
+
+![Emma Wilson Remediation](evidence/remediation/emma-wilson-remediation.png)
+
+---
+
+# Recommendations
+
+## 1. Quarterly Access Recertification
 
 Implement a quarterly access recertification process where department managers confirm each employee's group memberships are still appropriate.
 
-### 2. Access Review Following Role Changes
+## 2. Access Review Following Role Changes
 
 Integrate department transfers with a mandatory access review step, so access is re-evaluated whenever an employee's role changes in HR records.
 
-### 3. Automated Deprovisioning
+## 3. Automated Deprovisioning
 
 Automate deprovisioning by linking employee termination in HR to immediate account disablement and group removal in Microsoft Entra ID, rather than relying on manual offboarding steps.
 
 ---
 
-## Conclusion
+# Conclusion
 
 Based on the testing performed and evidence obtained, three access-management exceptions were identified, remediated, and verified:
 
@@ -126,14 +241,36 @@ Based on the testing performed and evidence obtained, three access-management ex
 - A transfer from IT to Sales had outdated IT access revoked and appropriate Sales access assigned.
 - A departed employee's active Microsoft Entra account was disabled with all organizational access removed.
 
-The assessment successfully demonstrates an end-to-end access-management control assessment process.
+The assessment successfully demonstrates an end-to-end access-management control assessment process:
+
+**Define → Test → Collect Evidence → Identify Exceptions → Remediate → Retest → Conclude**
 
 ---
 
-## Project Files
+# Project Structure
 
-| Resource | Description |
-|---|---|
-| 📊 [Working Paper](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/NexG%20Services%20Ltd.xlsx) | Detailed access review working paper |
-| 📁 [Evidence](./evidence/) | Supporting assessment evidence |
-| 📄 [Full Assessment Report](./report/User-Access-Review.pdf) | Full assessment report |
+```text
+NexG-User-Access-Review/
+│
+├── README.md
+│
+├── NexG Services Ltd/
+│   └── NexG Services Ltd.xlsx
+│
+├── evidence/
+│   │
+│   ├── initial-review/
+│   │   ├── sarah-adams-initial-access.png
+│   │   ├── daniel-evans-initial-access.png
+│   │   └── emma-wilson-initial-access.png
+│   │
+│   └── remediation/
+│       ├── sarah-adams-remediation.png
+│       ├── sarah-adams-retest.png
+│       ├── daniel-evans-remediation.png
+│       ├── daniel-evans-retest.png
+│       ├── emma-wilson-remediation.png
+│       └── emma-wilson-retest.png
+│
+└── report/
+    └── User-Access-Review.pdf
