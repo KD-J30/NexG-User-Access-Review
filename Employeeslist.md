@@ -1,3 +1,8 @@
+
+## Excel Spreadsheet
+
+[ Download Excel Spreadsheet](https://github.com/KD-J30/NexG-User-Access-Review/raw/refs/heads/main/NexG%20Services%20Ltd/NexG%20Services%20Ltd.xlsx)
+
 ## Employees & Expected Access
 
 | Employee ID | Name | Department | Job Title | Status | Expected Access |
