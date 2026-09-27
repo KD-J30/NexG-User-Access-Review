@@ -82,7 +82,7 @@ Sarah Adams had Marketing access in addition to her required Finance access.
 
 The following evidence demonstrates the access identified during the initial review.
 
-![Sarah Adams Initial Access](evidence/initial-review/sarah-adams-initial-access.png)
+![Sarah Adams Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Sarah%20Adams/Before%20Rem/Screenshot%202026-09-21%20184747.png)
 
 
 ---
