@@ -82,8 +82,9 @@ Sarah Adams had Marketing access in addition to her required Finance access.
 
 The following evidence demonstrates the access identified during the initial review.
 
-![Sarah Adams Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Sarah%20Adams/Before%20Rem/Screenshot%202026-09-21%20184747.png)
 
+
+![Sarah Adams Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Sarah%20Adams/Before%20Remediation/Screenshot%202026-09-21%20184747.png)
 
 ---
 
@@ -102,9 +103,9 @@ Daniel Evans retained his previous IT access after transferring to the Sales dep
 
 The following evidence demonstrates the access identified during the initial review.
 
-![Daniel Evans Initial Access](evidence/initial-review/daniel-evans-initial-access.png)
 
 
+![Daniel Evans Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Daniel%20Evans/Before%20Remediation/Screenshot%202026-09-21%20185112.png)
 ---
 
 ## 3. Active Access Following Employee Resignation
@@ -122,7 +123,12 @@ Emma Wilson's Microsoft Entra account remained active and retained Marketing mem
 
 The following evidence demonstrates the active account and Marketing membership identified during the initial review.
 
-![Emma Wilson Initial Access](evidence/initial-review/emma-wilson-initial-access.png)
+
+
+![Emma Wilson Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Emma/b4/Screenshot%202026-09-21%20110520.png)
+
+![Emma Wilson Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Emma/b4/Screenshot%202026-09-21%20185518.png)
+
 
 ---
 
