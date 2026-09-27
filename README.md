@@ -84,23 +84,6 @@ The following evidence demonstrates the access identified during the initial rev
 
 ![Sarah Adams Initial Access](evidence/initial-review/sarah-adams-initial-access.png)
 
-### Remediation
-
-The unnecessary Marketing access was removed, leaving Sarah Adams with the required Finance access.
-
-### Evidence — Remediation
-
-![Sarah Adams Remediation](evidence/remediation/sarah-adams-remediation.png)
-
-### Retest
-
-Sarah Adams was retested after remediation.
-
-- **Expected Access:** Finance
-- **Actual Access:** Finance
-- **Result:** Remediated
-
-![Sarah Adams Retest](evidence/remediation/sarah-adams-retest.png)
 
 ---
 
@@ -121,23 +104,6 @@ The following evidence demonstrates the access identified during the initial rev
 
 ![Daniel Evans Initial Access](evidence/initial-review/daniel-evans-initial-access.png)
 
-### Remediation
-
-Daniel Evans' outdated IT access was removed and his access was updated to reflect his new Sales responsibilities.
-
-### Evidence — Remediation
-
-![Daniel Evans Remediation](evidence/remediation/daniel-evans-remediation.png)
-
-### Retest
-
-Daniel Evans was retested after remediation.
-
-- **Expected Access:** Sales
-- **Actual Access:** Sales
-- **Result:** Remediated
-
-![Daniel Evans Retest](evidence/remediation/daniel-evans-retest.png)
 
 ---
 
@@ -157,24 +123,6 @@ Emma Wilson's Microsoft Entra account remained active and retained Marketing mem
 The following evidence demonstrates the active account and Marketing membership identified during the initial review.
 
 ![Emma Wilson Initial Access](evidence/initial-review/emma-wilson-initial-access.png)
-
-### Remediation
-
-Emma Wilson's Microsoft Entra account was disabled and associated organizational access was removed following her resignation.
-
-### Evidence — Remediation
-
-![Emma Wilson Remediation](evidence/remediation/emma-wilson-remediation.png)
-
-### Retest
-
-Emma Wilson was retested after remediation.
-
-- **Expected Access:** No access
-- **Actual Access:** Disabled account and no organizational group membership
-- **Result:** Remediated
-
-![Emma Wilson Retest](evidence/remediation/emma-wilson-retest.png)
 
 ---
 
