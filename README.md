@@ -183,42 +183,4 @@ Automate deprovisioning by linking employee termination in HR to immediate accou
 
 # Conclusion
 
-Based on the testing performed and evidence obtained, three access-management exceptions were identified, remediated, and verified:
-
-- An employee with unnecessary department access had the extra privileges removed.
-- A transfer from IT to Sales had outdated IT access revoked and appropriate Sales access assigned.
-- A departed employee's active Microsoft Entra account was disabled with all organizational access removed.
-
-The assessment successfully demonstrates an end-to-end access-management control assessment process:
-
-**Define → Test → Collect Evidence → Identify Exceptions → Remediate → Retest → Conclude**
-
----
-
-# Project Structure
-
-```text
-NexG-User-Access-Review/
-│
-├── README.md
-│
-├── NexG Services Ltd/
-│   └── NexG Services Ltd.xlsx
-│
-├── evidence/
-│   │
-│   ├── initial-review/
-│   │   ├── sarah-adams-initial-access.png
-│   │   ├── daniel-evans-initial-access.png
-│   │   └── emma-wilson-initial-access.png
-│   │
-│   └── remediation/
-│       ├── sarah-adams-remediation.png
-│       ├── sarah-adams-retest.png
-│       ├── daniel-evans-remediation.png
-│       ├── daniel-evans-retest.png
-│       ├── emma-wilson-remediation.png
-│       └── emma-wilson-retest.png
-│
-└── report/
-    └── User-Access-Review.pdf
+Based on the testing performed and evidence obtained, three access-management exceptions were identified, remediated, and verified: an employee with unnecessary department access had the extra privileges removed, a transfer from IT to Sales had outdated IT access revoked and appropriate Sales access assigned, and a departed employee's active Microsoft Entra account was disabled with all organizational access removed successfully demonstrating an end-to-end access-management control assessment process.
