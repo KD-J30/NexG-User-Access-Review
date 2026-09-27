@@ -134,6 +134,6 @@ The assessment successfully demonstrates an end-to-end access-management control
 
 | Resource | Description |
 |---|---|
-| 📊 [Working Paper](./working-papers/User-Access-Review.xlsx) | Detailed access review working paper |
+| 📊 [Working Paper](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/NexG%20Services%20Ltd.xlsx) | Detailed access review working paper |
 | 📁 [Evidence](./evidence/) | Supporting assessment evidence |
 | 📄 [Full Assessment Report](./report/User-Access-Review.pdf) | Full assessment report |
