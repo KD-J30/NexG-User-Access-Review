@@ -193,4 +193,4 @@ Automate deprovisioning by linking employee termination in HR to immediate accou
 
 # Conclusion
 
-Based on the testing performed and evidence obtained, three access-management exceptions were identified, remediated, and verified: an employee with unnecessary department access had the extra privileges removed, a transfer from IT to Sales had outdated IT access revoked and appropriate Sales access assigned, and a departed employee's active Microsoft Entra account was disabled with all organizational access removed successfully demonstrating an end-to-end access-management control assessment process.
+Based on the testing performed and evidence obtained, three access-management exceptions were identified, remediated and verified: an employee with unnecessary department access had the extra privileges removed, a transfer from IT to Sales had outdated IT access revoked and appropriate Sales access assigned and a departed employee's active Microsoft Entra account was disabled with all organizational access removed successfully demonstrating an end-to-end access-management control assessment process.
