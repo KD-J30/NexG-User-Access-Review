@@ -114,7 +114,7 @@ The following evidence demonstrates the access identified during the initial rev
 - **Employee:** Emma Wilson
 - **Previous Role:** Marketing Officer
 - **Department:** Marketing
-- **Employee Status:** Disabled
+- **Employee Status:** Resigned
 - **Expected Access:** No access
 - **Actual Access:** Active Microsoft Entra account and membership in Marketing
 
