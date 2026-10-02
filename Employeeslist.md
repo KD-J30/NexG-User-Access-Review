@@ -1,5 +1,17 @@
 
-## Employees & Expected Access
+
+
+## Administrative Account
+
+
+| Account | Purpose | Scope | Reason |
+|---|---|---|---|
+| K J | Tenant administration  | Out of Scope | Administrative account used to manage the environment (not part of the 15-employee population) |
+
+---
+
+
+## Employees & Expected Access 
 
 | Employee ID | Name | Department | Job Title | Status | Expected Access |
 |---|---|---|---|---|---|
@@ -18,16 +30,6 @@
 | EMP013 | Ethan Parker | Management | Managing Director | Active | Management |
 | EMP014 | Isabella Roberts | Legal | Legal Officer | Active | Legal |
 | EMP015 | Emma Wilson | - | - | Inactive | No Access |
-
-
----
-
-## Administrative Account
-
-
-| Account | Purpose | Scope | Reason |
-|---|---|---|---|
-| K J | Tenant administration  | Out of Scope | Administrative account used to manage the environment (not part of the 15-employee population) |
 
 ---
 
