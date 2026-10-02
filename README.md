@@ -8,7 +8,7 @@ GRC portfolio project demonstrating a User Access Review control assessment usin
 
 ## Scope
 
-This assessment covers the User Access Review control for **NexG Services Ltd**, a fictional organization with 15 employees, limited to user accounts and memberships within **Microsoft Entra ID**. A separate **K J** administrative account is used for tenant administration, which is excluded from the employee review.
+This assessment covers the User Access Review control for **NexG Services Ltd**, a fictional organization with 15 employees, limited to user accounts and memberships within **Microsoft Entra ID**. A separate administrative account is used for tenant administration, which is excluded from the employee review.
 
 The assessment evaluates whether access matches employees' current responsibilities and is appropriately adjusted following role changes or departure.
 
