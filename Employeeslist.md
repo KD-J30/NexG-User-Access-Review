@@ -29,7 +29,7 @@
 |---|---|---|---|
 | K J | Tenant administration  | Out of Scope | Administrative account used to manage the environment (not part of the 15-employee population) |
 
-
+---
 
 
 ## Pre Remediation Access Review
