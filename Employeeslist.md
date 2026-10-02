@@ -26,9 +26,8 @@
 
 
 
-## Administrative Lab Account
+## Administrative Account
 
-The Microsoft Entra ID tenant contains one separate administrative account used to create and administer the fictional lab environment.
 
 | Account | Purpose | Scope | Reason |
 |---|---|---|---|
