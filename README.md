@@ -4,7 +4,7 @@ GRC portfolio project demonstrating a User Access Review control assessment usin
 
 # User Access Review & Remediation Control Assessment
 
-## Scope
+
 
 ## Scope
 
