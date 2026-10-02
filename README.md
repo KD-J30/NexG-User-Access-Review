@@ -193,5 +193,5 @@ Automate deprovisioning by linking employee termination in HR to immediate accou
 
 # Conclusion
 
-Based on the testing performed and evidence obtained, three access-management exceptions were identified across the 15 employees reviewed, representing a 20% exception rate. The exceptions included unnecessary access, outdated access following a department transfer, and an active account belonging to an employee who had already left the organisation. Although all three exceptions were remediated, their identification indicates that the access-management process at **NexG Services Ltd** was not operating properly to ensure that user access remained appropriate and up to date. 
+Based on the testing performed and evidence obtained, three access-management exceptions were identified across the 15 employees reviewed, representing a **20% exception rate**. The exceptions included unnecessary access, outdated access following a department transfer and an active account belonging to an employee who had already left the organization. Although all three exceptions were remediated, their identification indicates that the access-management process at **NexG Services Ltd** was not operating properly to ensure that user access remained appropriate and up to date. 
 
