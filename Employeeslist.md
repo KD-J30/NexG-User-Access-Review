@@ -24,13 +24,17 @@
 | EMP015 | Emma Wilson | - | - | Inactive | No Access |
 
 
+
+
 ## Administrative Lab Account
 
 The Microsoft Entra ID tenant contains one separate administrative account used to create and administer the fictional lab environment.
 
 | Account | Purpose | Scope | Reason |
 |---|---|---|---|
-| K J | Tenant administration  | Out of Scope | Administrative account used to manage the authorized lab environment (not part of the 15-employee population) |
+| K J | Tenant administration  | Out of Scope | Administrative account used to manage the environment (not part of the 15-employee population) |
+
+
 
 
 ## Pre Remediation Access Review
