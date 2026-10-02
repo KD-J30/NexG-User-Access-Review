@@ -12,6 +12,7 @@
 
 
 ## Employees & Expected Access 
+Expected access was determined based on employee department, job title and employment status from an HR system export.
 
 | Employee ID | Name | Department | Job Title | Status | Expected Access |
 |---|---|---|---|---|---|
