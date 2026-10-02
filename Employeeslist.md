@@ -11,7 +11,7 @@
 | EMP002 | John Brown | Finance | Finance Manager | Active | Finance |
 | EMP003 | Emily Carter | HR | HR Officer | Active | HR |
 | EMP004 | Michael Davis | HR | HR Manager | Active | HR |
-| EMP005 | Daniel Evans | IT | IT Support | Active | IT |
+| EMP005 | Daniel Evans | Sales | Sales Executive | Active | Sales |
 | EMP006 | Olivia Foster | IT | IT Administrator | Active | IT |
 | EMP007 | James Green | Sales | Sales Executive | Active | Sales |
 | EMP008 | Sophia Harris | Sales | Sales Manager | Active | Sales |
@@ -21,7 +21,7 @@
 | EMP012 | Mia Nelson | Operations | Operations Manager | Active | Operations |
 | EMP013 | Ethan Parker | Management | Managing Director | Active | Management |
 | EMP014 | Isabella Roberts | Legal | Legal Officer | Active | Legal |
-| EMP015 | Emma Wilson | Marketing | Marketing Officer | Active | Marketing |
+| EMP015 | Emma Wilson | - | - | Inactive | No Access |
 
 
 ## Pre Remediation Access Review
