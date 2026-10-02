@@ -60,10 +60,10 @@
 
 ### 1. Employee Evidence
 
-![Employee Evidence 1](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Group%20and%20user%20evidence/Screenshot%202026-09-21%20105744.png?raw=true)
+![Employee Evidence 1](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Evidence%20for%20NexG/Groups%20and%20users/Screenshot%202026-09-21%20105744.png)
 
-![Employee Evidence 2](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Group%20and%20user%20evidence/Screenshot%202026-09-21%20105807.png?raw=true)
+![Employee Evidence 2](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Evidence%20for%20NexG/Groups%20and%20users/Screenshot%202026-09-21%20105807.png)
 
 ### 2. Group Evidence
 
-![Group Evidence 1](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/NexG%20Services%20Ltd/Evidence/Group%20and%20user%20evidence/Screenshot%202026-09-21%20105932.png?raw=true)
+![Group Evidence 1](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Evidence%20for%20NexG/Groups%20and%20users/Screenshot%202026-09-21%20105932.png)
