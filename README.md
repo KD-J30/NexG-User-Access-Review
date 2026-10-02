@@ -87,7 +87,7 @@ The following evidence demonstrates the access identified during the initial rev
 
 
 
-![Sarah Adams Initial Access}(https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Evidence%20for%20NexG/Sarah%20adams/Screenshot%202026-10-02%20232628.png)
+![Sarah Adams Initial Access](https://github.com/KD-J30/NexG-User-Access-Review/blob/main/Evidence%20for%20NexG/Sarah%20adams/Screenshot%202026-10-02%20232628.png)
 
 ---
 
